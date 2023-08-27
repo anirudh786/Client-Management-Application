@@ -2,6 +2,7 @@
 # Description
 
 Create a project in Jira or any other project management software
+
 Create epics for clients and client meetings
 Create user stories for clients, meetings, and cancel meeting in the epics
 Create and start sprint for the project
